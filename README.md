@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, MySQL**
 
-- 👨‍💻 Partial list of my projects are available at [https://portfoliio-sobbey99.vercel.app/](https://portfolio-sobbey99.vercel.app/)
+- 👨‍💻 Partial list of my projects are available at [https://portfolio-sobbey99.vercel.app/](https://portfolio-sobbey99.vercel.app/)
 
 - 📫 How to reach me **https://t.me/tgmihai**
 
