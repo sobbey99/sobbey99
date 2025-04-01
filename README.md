@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mihail</h1>
-<h3 align="center">A passionate fullstack developer from Moldova</h3>
+<h3 align="center">Fullstack Javascript Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sobbey99&label=Profile%20views&color=0e75b6&style=flat" alt="sobbey99" /> </p>
 
--   🌱 Involved in **web** and **mobile** development since 2020, I am still continuously trying to improve skills and expand my horizons in technology.
+-   🌱 Experienced full-stack JavaScript developer with a strong background in building scalable web and mobile applications. Proficient in Node JS, with expertise in DevOps, cloud deployment, and containerization. Successfully developed and launched AI apps with real users, ensuring smooth performance and reliability.
+As the creator of two SaaS products, I have hands-on experience in product development, backend architecture, and API integrations. Check out my SaaS projects:
 
--   👨‍💻 Partial list of my projects are available at [https://portfolio-sobbey99.vercel.app/](https://portfolio-sobbey99.vercel.app/)
+    [https://audionotes.ai/](https://audionotes.ai/)
+    [https://frateca.com/](https://frateca.com/)
+
+Passionate about automation, microservices, and delivering high-quality software solutions.
+
+-   👨‍💻 Partial list of first pet projects are available at [https://portfolio-sobbey99.vercel.app/](https://portfolio-sobbey99.vercel.app/)
 
 -   📫 How to reach me **https://t.me/tgmihai**
 
