@@ -10,7 +10,7 @@ As the creator of two SaaS products, I have hands-on experience in product devel
     
     [https://frateca.com/](https://frateca.com/)
 
-Passionate about automation, microservices, and delivering high-quality software solutions.
+Passionate about automation, cybersecurity, and delivering high-quality software solutions.
 
 -   👨‍💻 Partial list of first pet projects are available at [https://portfolio-sobbey99.vercel.app/](https://portfolio-sobbey99.vercel.app/)
 
