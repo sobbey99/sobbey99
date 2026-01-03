@@ -60,9 +60,6 @@ Passionate about automation, cybersecurity, and delivering high-quality software
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
-</a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
 </a>
@@ -90,6 +87,3 @@ Passionate about automation, cybersecurity, and delivering high-quality software
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobbey99&show_icons=true&locale=en&layout=compact" alt="sobbey99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobbey99&show_icons=true&locale=en" alt="sobbey99" /></p>
